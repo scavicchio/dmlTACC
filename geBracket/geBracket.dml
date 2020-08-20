@@ -42,9 +42,10 @@
 		<force volume="load" magnitude="0 31404 28277" duration="0.025" />
 	</loadcase>	
 
-	<loadcase id="case3">
+	<loadcase id="case4">
 		<anchor volume="anchor" /> 
-		<torque volume="load" magnitude="0 22241 0" origin="0.004710, 44.716259, 39.195751" duration="0.025" />
+		<torque volume="load" magnitude="22241 0 0" 
+origin="0.004710, 44.716259, 39.195751" duration="0.025" />
 	</loadcase>	
 	
 
@@ -73,7 +74,7 @@
 		
 		<plane normal="0.0,1.0,0.0" offset="-0.017577"/>
 
-		<load id="case4" />
+		<load queue="case1,case2,case3,case4" />
 	
 	</simulation>
 
