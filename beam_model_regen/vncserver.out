@@ -9,3 +9,5 @@ Your VNC server is now running!
 To connect via VNC client:  SSH tunnel port 10154 to ls5.tacc.utexas.edu:10154
                             Then connect to localhost:10154
 xterm: cannot load font '-misc-fixed-medium-r-semicondensed-*-13-120-75-75-c-60-iso10646-1'
+wall: cannot get tty name: Inappropriate ioctl for device
+slurmstepd: error: *** JOB 3024939 ON nid00154 CANCELLED AT 2020-08-28T20:02:44 DUE TO TIME LIMIT ***
