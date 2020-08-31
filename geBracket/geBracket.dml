@@ -22,7 +22,23 @@
 	color="0 1 0"
 	alpha="0.5"
 	/>
-	
+
+	<volume id="torque_A"
+	primitive="stl"
+	url="load_smallSide.stl"
+	units="mm"
+	color="0 1 0"
+	alpha="0.5"
+	/>
+
+	<volume id="torque_B"
+	primitive="stl"
+	url="load_largeSide.stl"
+	units="mm"
+	color="0 1 0"
+	alpha="0.5"
+	/>
+
 	<loadcase id="case0">
 		<anchor volume="anchor" /> 
 		<force volume="load" magnitude="0 0 0" duration="0.025" />
@@ -45,8 +61,8 @@
 
 	<loadcase id="case4">
 		<anchor volume="anchor" /> 
-		<torque volume="load" magnitude="22241 0 0" 
-origin="0.004710, 44.716259, 39.195751" duration="0.025" />
+		<force volume="torque_A" magnitude="0 0 500" duration="0.025" />
+		<force volume="torque_B" magnitude="0 0 -500" duration="0.025" />
 	</loadcase>	
 	
 
