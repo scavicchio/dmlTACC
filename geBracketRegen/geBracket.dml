@@ -1,0 +1,105 @@
+<dml version="1.0" units="MKS">
+
+	<volume id =  "geBracket"
+	primitive="stl"
+	url="original.stl"
+	units="mm"
+	color="0.5 0.5 0.5"
+	/>
+
+	<volume id="anchor"
+	primitive="stl"
+	url="anchor.stl"
+	units="mm"
+	color="1 0 0"
+	alpha="0.5"
+	/>
+	
+	<volume id="load"
+	primitive="stl"
+	url="load.stl"
+	units="mm"
+	color="0 1 0"
+	alpha="0.5"
+	/>
+
+	<volume id="torque_A"
+	primitive="stl"
+	url="load_smallSide.stl"
+	units="mm"
+	color="0 1 0"
+	alpha="0.5"
+	/>
+
+	<volume id="torque_B"
+	primitive="stl"
+	url="load_largeSide.stl"
+	units="mm"
+	color="0 1 0"
+	alpha="0.5"
+	/>
+
+	<loadcase id="case0">
+		<anchor volume="anchor" /> 
+		<force volume="load" magnitude="0 0 0" duration="0.025" />
+		</loadcase>
+		
+	<loadcase id="case1">
+		<anchor volume="anchor" /> 
+		<force volume="load" magnitude="0 35585 0" duration="0.025" />
+	</loadcase>
+
+	<loadcase id="case2">
+		<anchor volume="anchor" /> 
+		<force volume="load" magnitude="0 0 37809" duration="0.025" />
+	</loadcase>	
+
+	<loadcase id="case3">
+		<anchor volume="anchor" /> 
+		<force volume="load" magnitude="0 31404 28277" duration="0.025" />
+	</loadcase>	
+
+	<loadcase id="case4">
+		<anchor volume="anchor" /> 
+		<force volume="torque_A" magnitude="0 0 5000" duration="0.025" />
+		<force volume="torque_B" magnitude="0 0 -5000" duration="0.025" />
+	</loadcase>	
+	
+
+		
+	<material id="titanium"
+		name="Ti"
+		elasticity="114.0 GPa"
+		yield="830.0 MPa"
+		density="4.43 gcc"
+	/>
+
+	<simulation id="bracket_sim" volume="geBracket">
+		<lattice fill="space"
+			unit=".009 0.005 0.005"
+			bardiam="0.0015 0.001 0.001"
+			material="titanium"
+			hull="1"
+			structure="bars"
+		/>
+		
+		<damping velocity="0.001" />
+			
+		<global acceleration="0.0 -9.8 0.0" />
+		
+		<repeat after="optimize" />
+		
+		<plane normal="0.0,1.0,0.0" offset="-0.017577"/>
+
+		<load id="case4" />
+	
+	</simulation>
+
+	<optimization simulation="bracket_sim">
+		<rule method="remove_low_stress" threshold="7%" 
+frequency="100000" />
+		<stop metric="iterations" threshold="1000" />
+	</optimization>
+
+	<output id="model" simulation="bracket_sim"> </output>
+</dml>
