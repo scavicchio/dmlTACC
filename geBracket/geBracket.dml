@@ -62,7 +62,8 @@
 	<loadcase id="case4">
 		<anchor volume="anchor" /> 
 		<force volume="torque_A" magnitude="0 0 5000" duration="0.025" />
-		<force volume="torque_B" magnitude="0 0 -5000" duration="0.025" />
+		<force volume="torque_B" magnitude="0 0 -5000" 
+duration="0.025" />
 	</loadcase>	
 	
 
@@ -76,10 +77,10 @@
 
 	<simulation id="bracket_sim" volume="geBracket">
 		<lattice fill="space"
-			unit=".009 0.005 0.005"
+			unit=".004 0.005 0.005"
 			bardiam="0.0015 0.001 0.001"
 			material="titanium"
-			hull="1"
+			hull="0"
 			structure="bars"
 		/>
 		
@@ -91,7 +92,7 @@
 		
 		<plane normal="0.0,1.0,0.0" offset="-0.017577"/>
 
-		<load id="case4" />
+		<load queue="case1,case2,case3,case4" />
 	
 	</simulation>
 

@@ -1,390 +1,990 @@
 IMAGE --- dmlFrame_0
-Bars: 62435
+Bars: 136200
 Time: 0.00 s
-Weight (start): 735.9150
-Weight (current): 0.0000
-Weight remaining: 0.00%
-Deflection: 0.0000 m
-Optimization iterations: 0
-Optimization threshold: 7.0% bars per iteration
-
-IMAGE --- dmlFrame_1
-Bars: 62435
-Time: 0.00 s
-Weight (start): 735.9150
-Weight (current): 735.9150
+Weight (start): 1180.0413
+Weight (current): 1180.0413
 Weight remaining: 100.00%
 Deflection: 0.0004 m
 Optimization iterations: 0
 Optimization threshold: 7.0% bars per iteration
 
-IMAGE --- dmlFrame_2
-Bars: 62435
-Time: 0.00 s
-Weight (start): 735.9150
-Weight (current): 735.9150
+IMAGE --- dmlFrame_1
+Bars: 136200
+Time: 0.01 s
+Weight (start): 1180.0413
+Weight (current): 1180.0413
 Weight remaining: 100.00%
 Deflection: 0.0005 m
+Optimization iterations: 0
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_2
+Bars: 136200
+Time: 0.01 s
+Weight (start): 1180.0413
+Weight (current): 1180.0413
+Weight remaining: 100.00%
+Deflection: 0.0004 m
 Optimization iterations: 0
 Optimization threshold: 7.0% bars per iteration
 
 IMAGE --- dmlFrame_3
-Bars: 62435
+Bars: 136200
 Time: 0.01 s
-Weight (start): 735.9150
-Weight (current): 735.9150
+Weight (start): 1180.0413
+Weight (current): 1180.0413
 Weight remaining: 100.00%
-Deflection: 0.0005 m
+Deflection: 0.0004 m
 Optimization iterations: 0
 Optimization threshold: 7.0% bars per iteration
 
 IMAGE --- dmlFrame_4
-Bars: 62435
+Bars: 136200
 Time: 0.01 s
-Weight (start): 735.9150
-Weight (current): 735.9150
+Weight (start): 1180.0413
+Weight (current): 1180.0413
 Weight remaining: 100.00%
-Deflection: 0.0005 m
+Deflection: 0.0004 m
 Optimization iterations: 0
 Optimization threshold: 7.0% bars per iteration
 
 IMAGE --- dmlFrame_5
-Bars: 62435
+Bars: 136200
 Time: 0.01 s
-Weight (start): 735.9150
-Weight (current): 735.9150
+Weight (start): 1180.0413
+Weight (current): 1180.0413
 Weight remaining: 100.00%
-Deflection: 0.0005 m
+Deflection: 0.0004 m
 Optimization iterations: 0
 Optimization threshold: 7.0% bars per iteration
 
 IMAGE --- dmlFrame_6
-Bars: 62435
-Time: 0.01 s
-Weight (start): 735.9150
-Weight (current): 735.9150
+Bars: 136200
+Time: 0.02 s
+Weight (start): 1180.0413
+Weight (current): 1180.0413
 Weight remaining: 100.00%
-Deflection: 0.0005 m
+Deflection: 0.0004 m
 Optimization iterations: 0
 Optimization threshold: 7.0% bars per iteration
 
 IMAGE --- dmlFrame_7
-Bars: 62435
-Time: 0.01 s
-Weight (start): 735.9150
-Weight (current): 735.9150
+Bars: 136200
+Time: 0.02 s
+Weight (start): 1180.0413
+Weight (current): 1180.0413
 Weight remaining: 100.00%
-Deflection: 0.0005 m
+Deflection: 0.0004 m
 Optimization iterations: 0
 Optimization threshold: 7.0% bars per iteration
 
 IMAGE --- dmlFrame_8
-Bars: 62435
+Bars: 136200
 Time: 0.02 s
-Weight (start): 735.9150
-Weight (current): 735.9150
+Weight (start): 1180.0413
+Weight (current): 1180.0413
 Weight remaining: 100.00%
-Deflection: 0.0005 m
+Deflection: 0.0004 m
 Optimization iterations: 0
 Optimization threshold: 7.0% bars per iteration
 
 IMAGE --- dmlFrame_9
-Bars: 62435
+Bars: 136200
 Time: 0.02 s
-Weight (start): 735.9150
-Weight (current): 735.9150
+Weight (start): 1180.0413
+Weight (current): 1180.0413
 Weight remaining: 100.00%
-Deflection: 0.0005 m
+Deflection: 0.0004 m
 Optimization iterations: 0
 Optimization threshold: 7.0% bars per iteration
 
 IMAGE --- dmlFrame_10
-Bars: 62435
+Bars: 136200
 Time: 0.02 s
-Weight (start): 735.9150
-Weight (current): 735.9150
+Weight (start): 1180.0413
+Weight (current): 1180.0413
 Weight remaining: 100.00%
-Deflection: 0.0005 m
+Deflection: 0.0004 m
 Optimization iterations: 0
 Optimization threshold: 7.0% bars per iteration
 
 IMAGE --- dmlFrame_11
-Bars: 62435
-Time: 0.02 s
-Weight (start): 735.9150
-Weight (current): 735.9150
+Bars: 136200
+Time: 0.03 s
+Weight (start): 1180.0413
+Weight (current): 1180.0413
 Weight remaining: 100.00%
-Deflection: 0.0005 m
+Deflection: 0.0000 m
 Optimization iterations: 0
 Optimization threshold: 7.0% bars per iteration
 
 IMAGE --- dmlFrame_12
-Bars: 62435
-Time: 0.02 s
-Weight (start): 735.9150
-Weight (current): 735.9150
+Bars: 136200
+Time: 0.03 s
+Weight (start): 1180.0413
+Weight (current): 1180.0413
 Weight remaining: 100.00%
-Deflection: 0.0005 m
+Deflection: 0.0004 m
 Optimization iterations: 0
 Optimization threshold: 7.0% bars per iteration
 
 IMAGE --- dmlFrame_13
-Bars: 62435
+Bars: 136200
 Time: 0.03 s
-Weight (start): 735.9150
-Weight (current): 735.9150
+Weight (start): 1180.0413
+Weight (current): 1180.0413
 Weight remaining: 100.00%
 Deflection: 0.0003 m
 Optimization iterations: 0
 Optimization threshold: 7.0% bars per iteration
 
 IMAGE --- dmlFrame_14
-Bars: 62435
+Bars: 136200
 Time: 0.03 s
-Weight (start): 735.9150
-Weight (current): 735.9150
+Weight (start): 1180.0413
+Weight (current): 1180.0413
 Weight remaining: 100.00%
-Deflection: 0.0003 m
+Deflection: 0.0004 m
 Optimization iterations: 0
 Optimization threshold: 7.0% bars per iteration
 
 IMAGE --- dmlFrame_15
-Bars: 62435
+Bars: 136200
 Time: 0.03 s
-Weight (start): 735.9150
-Weight (current): 735.9150
+Weight (start): 1180.0413
+Weight (current): 1180.0413
 Weight remaining: 100.00%
 Deflection: 0.0003 m
 Optimization iterations: 0
 Optimization threshold: 7.0% bars per iteration
 
 IMAGE --- dmlFrame_16
-Bars: 62435
-Time: 0.03 s
-Weight (start): 735.9150
-Weight (current): 735.9150
-Weight remaining: 100.00%
-Deflection: 0.0004 m
-Optimization iterations: 0
-Optimization threshold: 7.0% bars per iteration
-
-IMAGE --- dmlFrame_17
-Bars: 62435
-Time: 0.03 s
-Weight (start): 735.9150
-Weight (current): 735.9150
-Weight remaining: 100.00%
-Deflection: 0.0004 m
-Optimization iterations: 0
-Optimization threshold: 7.0% bars per iteration
-
-IMAGE --- dmlFrame_18
-Bars: 62435
+Bars: 136200
 Time: 0.04 s
-Weight (start): 735.9150
-Weight (current): 735.9150
-Weight remaining: 100.00%
-Deflection: 0.0004 m
-Optimization iterations: 0
-Optimization threshold: 7.0% bars per iteration
-
-IMAGE --- dmlFrame_19
-Bars: 62435
-Time: 0.04 s
-Weight (start): 735.9150
-Weight (current): 735.9150
-Weight remaining: 100.00%
-Deflection: 0.0004 m
-Optimization iterations: 0
-Optimization threshold: 7.0% bars per iteration
-
-IMAGE --- dmlFrame_20
-Bars: 62435
-Time: 0.04 s
-Weight (start): 735.9150
-Weight (current): 735.9150
-Weight remaining: 100.00%
-Deflection: 0.0004 m
-Optimization iterations: 0
-Optimization threshold: 7.0% bars per iteration
-
-IMAGE --- dmlFrame_21
-Bars: 62435
-Time: 0.04 s
-Weight (start): 735.9150
-Weight (current): 735.9150
-Weight remaining: 100.00%
-Deflection: 0.0004 m
-Optimization iterations: 0
-Optimization threshold: 7.0% bars per iteration
-
-IMAGE --- dmlFrame_22
-Bars: 62435
-Time: 0.04 s
-Weight (start): 735.9150
-Weight (current): 735.9150
-Weight remaining: 100.00%
-Deflection: 0.0004 m
-Optimization iterations: 0
-Optimization threshold: 7.0% bars per iteration
-
-IMAGE --- dmlFrame_23
-Bars: 62435
-Time: 0.05 s
-Weight (start): 735.9150
-Weight (current): 735.9150
-Weight remaining: 100.00%
-Deflection: 0.0004 m
-Optimization iterations: 0
-Optimization threshold: 7.0% bars per iteration
-
-IMAGE --- dmlFrame_24
-Bars: 62435
-Time: 0.05 s
-Weight (start): 735.9150
-Weight (current): 735.9150
-Weight remaining: 100.00%
-Deflection: 0.0004 m
-Optimization iterations: 0
-Optimization threshold: 7.0% bars per iteration
-
-IMAGE --- dmlFrame_25
-Bars: 62435
-Time: 0.05 s
-Weight (start): 735.9150
-Weight (current): 735.9150
+Weight (start): 1180.0413
+Weight (current): 1180.0413
 Weight remaining: 100.00%
 Deflection: 0.0003 m
 Optimization iterations: 0
 Optimization threshold: 7.0% bars per iteration
 
-IMAGE --- dmlFrame_26
-Bars: 62435
+IMAGE --- dmlFrame_17
+Bars: 136200
+Time: 0.04 s
+Weight (start): 1180.0413
+Weight (current): 1180.0413
+Weight remaining: 100.00%
+Deflection: 0.0003 m
+Optimization iterations: 0
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_18
+Bars: 136200
+Time: 0.04 s
+Weight (start): 1180.0413
+Weight (current): 1180.0413
+Weight remaining: 100.00%
+Deflection: 0.0003 m
+Optimization iterations: 0
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_19
+Bars: 136200
+Time: 0.04 s
+Weight (start): 1180.0413
+Weight (current): 1180.0413
+Weight remaining: 100.00%
+Deflection: 0.0003 m
+Optimization iterations: 0
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_20
+Bars: 136200
+Time: 0.04 s
+Weight (start): 1180.0413
+Weight (current): 1180.0413
+Weight remaining: 100.00%
+Deflection: 0.0003 m
+Optimization iterations: 0
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_21
+Bars: 136200
 Time: 0.05 s
-Weight (start): 735.9150
-Weight (current): 735.9150
+Weight (start): 1180.0413
+Weight (current): 1180.0413
+Weight remaining: 100.00%
+Deflection: 0.0003 m
+Optimization iterations: 0
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_22
+Bars: 136200
+Time: 0.05 s
+Weight (start): 1180.0413
+Weight (current): 1180.0413
+Weight remaining: 100.00%
+Deflection: 0.0003 m
+Optimization iterations: 0
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_23
+Bars: 136200
+Time: 0.05 s
+Weight (start): 1180.0413
+Weight (current): 1180.0413
+Weight remaining: 100.00%
+Deflection: 0.0003 m
+Optimization iterations: 0
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_24
+Bars: 136200
+Time: 0.05 s
+Weight (start): 1180.0413
+Weight (current): 1180.0413
+Weight remaining: 100.00%
+Deflection: 0.0003 m
+Optimization iterations: 0
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_25
+Bars: 136200
+Time: 0.05 s
+Weight (start): 1180.0413
+Weight (current): 1180.0413
+Weight remaining: 100.00%
+Deflection: 0.0002 m
+Optimization iterations: 0
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_26
+Bars: 136200
+Time: 0.06 s
+Weight (start): 1180.0413
+Weight (current): 1180.0413
 Weight remaining: 100.00%
 Deflection: 0.0002 m
 Optimization iterations: 0
 Optimization threshold: 7.0% bars per iteration
 
 IMAGE --- dmlFrame_27
-Bars: 62435
-Time: 0.05 s
-Weight (start): 735.9150
-Weight (current): 735.9150
+Bars: 136200
+Time: 0.06 s
+Weight (start): 1180.0413
+Weight (current): 1180.0413
 Weight remaining: 100.00%
 Deflection: 0.0002 m
 Optimization iterations: 0
 Optimization threshold: 7.0% bars per iteration
 
 IMAGE --- dmlFrame_28
-Bars: 62435
+Bars: 136200
 Time: 0.06 s
-Weight (start): 735.9150
-Weight (current): 735.9150
+Weight (start): 1180.0413
+Weight (current): 1180.0413
 Weight remaining: 100.00%
-Deflection: 0.0003 m
+Deflection: 0.0002 m
 Optimization iterations: 0
 Optimization threshold: 7.0% bars per iteration
 
 IMAGE --- dmlFrame_29
-Bars: 62435
+Bars: 136200
 Time: 0.06 s
-Weight (start): 735.9150
-Weight (current): 735.9150
+Weight (start): 1180.0413
+Weight (current): 1180.0413
 Weight remaining: 100.00%
-Deflection: 0.0003 m
+Deflection: 0.0002 m
 Optimization iterations: 0
 Optimization threshold: 7.0% bars per iteration
 
 IMAGE --- dmlFrame_30
-Bars: 62435
+Bars: 136200
 Time: 0.06 s
-Weight (start): 735.9150
-Weight (current): 735.9150
+Weight (start): 1180.0413
+Weight (current): 1180.0413
 Weight remaining: 100.00%
-Deflection: 0.0003 m
+Deflection: 0.0002 m
 Optimization iterations: 0
 Optimization threshold: 7.0% bars per iteration
 
 IMAGE --- dmlFrame_31
-Bars: 62435
-Time: 0.06 s
-Weight (start): 735.9150
-Weight (current): 735.9150
+Bars: 136200
+Time: 0.07 s
+Weight (start): 1180.0413
+Weight (current): 1180.0413
 Weight remaining: 100.00%
-Deflection: 0.0003 m
+Deflection: 0.0002 m
 Optimization iterations: 0
 Optimization threshold: 7.0% bars per iteration
 
 IMAGE --- dmlFrame_32
-Bars: 62435
-Time: 0.06 s
-Weight (start): 735.9150
-Weight (current): 735.9150
+Bars: 136200
+Time: 0.07 s
+Weight (start): 1180.0413
+Weight (current): 1180.0413
 Weight remaining: 100.00%
-Deflection: 0.0003 m
+Deflection: 0.0002 m
 Optimization iterations: 0
 Optimization threshold: 7.0% bars per iteration
 
 IMAGE --- dmlFrame_33
-Bars: 62435
+Bars: 136200
 Time: 0.07 s
-Weight (start): 735.9150
-Weight (current): 735.9150
+Weight (start): 1180.0413
+Weight (current): 1180.0413
 Weight remaining: 100.00%
-Deflection: 0.0003 m
+Deflection: 0.0002 m
 Optimization iterations: 0
 Optimization threshold: 7.0% bars per iteration
 
 IMAGE --- dmlFrame_34
-Bars: 62435
+Bars: 136200
 Time: 0.07 s
-Weight (start): 735.9150
-Weight (current): 735.9150
+Weight (start): 1180.0413
+Weight (current): 1180.0413
 Weight remaining: 100.00%
-Deflection: 0.0003 m
+Deflection: 0.0002 m
 Optimization iterations: 0
 Optimization threshold: 7.0% bars per iteration
 
 IMAGE --- dmlFrame_35
-Bars: 62435
+Bars: 136200
 Time: 0.07 s
-Weight (start): 735.9150
-Weight (current): 735.9150
+Weight (start): 1180.0413
+Weight (current): 1180.0413
 Weight remaining: 100.00%
-Deflection: 0.0003 m
+Deflection: 0.0002 m
 Optimization iterations: 0
 Optimization threshold: 7.0% bars per iteration
 
 IMAGE --- dmlFrame_36
-Bars: 62435
-Time: 0.07 s
-Weight (start): 735.9150
-Weight (current): 735.9150
+Bars: 136200
+Time: 0.08 s
+Weight (start): 1180.0413
+Weight (current): 1180.0413
 Weight remaining: 100.00%
-Deflection: 0.0003 m
+Deflection: 0.0001 m
 Optimization iterations: 0
 Optimization threshold: 7.0% bars per iteration
 
 IMAGE --- dmlFrame_37
-Bars: 62435
-Time: 0.07 s
-Weight (start): 735.9150
-Weight (current): 735.9150
+Bars: 136200
+Time: 0.08 s
+Weight (start): 1180.0413
+Weight (current): 1180.0413
 Weight remaining: 100.00%
-Deflection: 0.0003 m
+Deflection: 0.0000 m
 Optimization iterations: 0
 Optimization threshold: 7.0% bars per iteration
 
 IMAGE --- dmlFrame_38
-Bars: 62435
+Bars: 136200
 Time: 0.08 s
-Weight (start): 735.9150
-Weight (current): 735.9150
+Weight (start): 1180.0413
+Weight (current): 1180.0413
 Weight remaining: 100.00%
-Deflection: 0.0001 m
+Deflection: 0.0000 m
 Optimization iterations: 0
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_39
+Bars: 136200
+Time: 0.08 s
+Weight (start): 1180.0413
+Weight (current): 1180.0413
+Weight remaining: 100.00%
+Deflection: 0.0000 m
+Optimization iterations: 0
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_40
+Bars: 136200
+Time: 0.08 s
+Weight (start): 1180.0413
+Weight (current): 1180.0413
+Weight remaining: 100.00%
+Deflection: 0.0000 m
+Optimization iterations: 0
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_41
+Bars: 136200
+Time: 0.09 s
+Weight (start): 1180.0413
+Weight (current): 1180.0413
+Weight remaining: 100.00%
+Deflection: 0.0000 m
+Optimization iterations: 0
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_42
+Bars: 136200
+Time: 0.09 s
+Weight (start): 1180.0413
+Weight (current): 1180.0413
+Weight remaining: 100.00%
+Deflection: 0.0000 m
+Optimization iterations: 0
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_43
+Bars: 136200
+Time: 0.09 s
+Weight (start): 1180.0413
+Weight (current): 1180.0413
+Weight remaining: 100.00%
+Deflection: 0.0000 m
+Optimization iterations: 0
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_44
+Bars: 136200
+Time: 0.09 s
+Weight (start): 1180.0413
+Weight (current): 1180.0413
+Weight remaining: 100.00%
+Deflection: 0.0000 m
+Optimization iterations: 0
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_45
+Bars: 136200
+Time: 0.09 s
+Weight (start): 1180.0413
+Weight (current): 1180.0413
+Weight remaining: 100.00%
+Deflection: 0.0000 m
+Optimization iterations: 0
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_46
+Bars: 136200
+Time: 0.10 s
+Weight (start): 1180.0413
+Weight (current): 1180.0413
+Weight remaining: 100.00%
+Deflection: 0.0000 m
+Optimization iterations: 0
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_47
+Bars: 136200
+Time: 0.10 s
+Weight (start): 1180.0413
+Weight (current): 1180.0413
+Weight remaining: 100.00%
+Deflection: 0.0000 m
+Optimization iterations: 0
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_48
+Bars: 136200
+Time: 0.10 s
+Weight (start): 1180.0413
+Weight (current): 1180.0413
+Weight remaining: 100.00%
+Deflection: 0.0000 m
+Optimization iterations: 0
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_49
+Bars: 136200
+Time: 0.10 s
+Weight (start): 1180.0413
+Weight (current): 1180.0413
+Weight remaining: 100.00%
+Deflection: 0.0000 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_50
+Bars: 136200
+Time: 0.10 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0005 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_51
+Bars: 136200
+Time: 0.11 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0004 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_52
+Bars: 136200
+Time: 0.11 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0004 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_53
+Bars: 136200
+Time: 0.11 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0004 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_54
+Bars: 136200
+Time: 0.11 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0004 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_55
+Bars: 136200
+Time: 0.11 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0004 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_56
+Bars: 136200
+Time: 0.12 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0004 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_57
+Bars: 136200
+Time: 0.12 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0004 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_58
+Bars: 136200
+Time: 0.12 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0004 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_59
+Bars: 136200
+Time: 0.12 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0004 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_60
+Bars: 136200
+Time: 0.12 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0004 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_61
+Bars: 136200
+Time: 0.13 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0004 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_62
+Bars: 136200
+Time: 0.13 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0002 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_63
+Bars: 136200
+Time: 0.13 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0002 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_64
+Bars: 136200
+Time: 0.13 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0002 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_65
+Bars: 136200
+Time: 0.13 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0002 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_66
+Bars: 136200
+Time: 0.14 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0002 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_67
+Bars: 136200
+Time: 0.14 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0002 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_68
+Bars: 136200
+Time: 0.14 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0002 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_69
+Bars: 136200
+Time: 0.14 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0002 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_70
+Bars: 136200
+Time: 0.14 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0002 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_71
+Bars: 136200
+Time: 0.15 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0002 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_72
+Bars: 136200
+Time: 0.15 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0002 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_73
+Bars: 136200
+Time: 0.15 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0002 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_74
+Bars: 136200
+Time: 0.15 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0004 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_75
+Bars: 136200
+Time: 0.15 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0004 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_76
+Bars: 136200
+Time: 0.16 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0004 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_77
+Bars: 136200
+Time: 0.16 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0004 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_78
+Bars: 136200
+Time: 0.16 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0004 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_79
+Bars: 136200
+Time: 0.16 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0004 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_80
+Bars: 136200
+Time: 0.16 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0004 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_81
+Bars: 136200
+Time: 0.17 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0004 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_82
+Bars: 136200
+Time: 0.17 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0004 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_83
+Bars: 136200
+Time: 0.17 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0004 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_84
+Bars: 136200
+Time: 0.17 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0004 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_85
+Bars: 136200
+Time: 0.17 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0004 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_86
+Bars: 136200
+Time: 0.18 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0004 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_87
+Bars: 136200
+Time: 0.18 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0004 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_88
+Bars: 136200
+Time: 0.18 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0004 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_89
+Bars: 136200
+Time: 0.18 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0004 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_90
+Bars: 136200
+Time: 0.18 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0004 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_91
+Bars: 136200
+Time: 0.19 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0004 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_92
+Bars: 136200
+Time: 0.19 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0004 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_93
+Bars: 136200
+Time: 0.19 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0004 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_94
+Bars: 136200
+Time: 0.19 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0004 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_95
+Bars: 136200
+Time: 0.19 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0004 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_96
+Bars: 136200
+Time: 0.20 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0004 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_97
+Bars: 136200
+Time: 0.20 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0004 m
+Optimization iterations: 1
+Optimization threshold: 7.0% bars per iteration
+
+IMAGE --- dmlFrame_98
+Bars: 136200
+Time: 0.20 s
+Weight (start): 1180.0413
+Weight (current): 1096.2301
+Weight remaining: 92.90%
+Deflection: 0.0004 m
+Optimization iterations: 1
 Optimization threshold: 7.0% bars per iteration
 
