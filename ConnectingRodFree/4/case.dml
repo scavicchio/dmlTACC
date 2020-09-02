@@ -52,8 +52,8 @@
 	</simulation>
 
 	<optimization simulation="bracket_sim">
-		<rule method="remove_low_stress" threshold="5%" frequency="25000" />
-		<stop metric="iterations" threshold="1500" />
+		<rule method="remove_low_stress" threshold="5%" frequency="20000" />
+		<stop metric="weight" threshold="15%" />
 	</optimization>
 
 	<output id="model" simulation="bracket_sim"> </output>
