@@ -1,0 +1,13 @@
+job execution at: Tue Sep 1 18:26:55 CDT 2020
+running on node nid00157
+using default VNC server /usr/bin/vncserver
+got VNC display :1
+local (compute node) VNC port is 5901
+got login node VNC port 10157
+Created reverse ports on Lonestar logins
+Your VNC server is now running!
+To connect via VNC client:  SSH tunnel port 10157 to ls5.tacc.utexas.edu:10157
+                            Then connect to localhost:10157
+xterm: cannot load font '-misc-fixed-medium-r-semicondensed-*-13-120-75-75-c-60-iso10646-1'
+wall: cannot get tty name: Inappropriate ioctl for device
+slurmstepd: error: *** JOB 3032132 ON nid00157 CANCELLED AT 2020-09-01T22:27:02 DUE TO TIME LIMIT ***
