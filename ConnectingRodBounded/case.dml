@@ -37,8 +37,8 @@
 
 	<simulation id="bracket_sim" volume="geBracket">
 		<lattice fill="space"
-			unit=".005 0.005 0.005"
-			bardiam="0.0015 0.001 0.001"
+			unit=".003 0.003 0.003"
+			bardiam="0.0015 0.0015 0.0015"
 			material="titanium"
 			hull="0"
 			structure="bars"
@@ -52,7 +52,8 @@
 	</simulation>
 
 	<optimization simulation="bracket_sim">
-		<rule method="remove_low_stress" threshold="5%" frequency="25000" />
+		<rule method="remove_low_stress" threshold="5%" 
+frequency="20000" />
 		<stop metric="iterations" threshold="1500" />
 	</optimization>
 
