@@ -8,7 +8,7 @@
 #SBATCH -p vis         # Queue name
 #SBATCH -N 1              # Total number of nodes requested
 #SBATCH -n 24             # Total number of mpi tasks requested
-#SBATCH -t 02:00:00       # Run time (hh:mm:ss) - 1.5 hours
+#SBATCH -t 00:15:00       # Run time (hh:mm:ss) - 1.5 hours
 # The next line is required if the user has more than one project
 #SBATCH -A A-yourproject  # Project/allocation number
 
@@ -22,6 +22,4 @@ cd 5mm
 mkdir 1
 cd 1
 
-swr /work/07199/scavic/lonestar/MASTER/dml-ide/build/DMLIDE ../../case5mm.dml
-# Launch the pure OpenMP application directly
-./my_openmp.exe
+swr /work/07199/scavic/lonestar/MASTER/dml-ide/build/DMLIDE ../../case5mm.dml -t 0.000001 -r 0.001
