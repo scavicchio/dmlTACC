@@ -1,0 +1,61 @@
+<dml version="1.0" units="MKS">
+
+	<volume id =  "geBracket"
+	primitive="stl"
+	url="Original.stl"
+	units="mm"
+	color="0.5 0.5 0.5"
+	/>
+
+	<volume id="anchor"
+	primitive="stl"
+	url="Anchor.stl"
+	units="mm"
+	color="1 0 0"
+	alpha="0.5"
+	/>
+
+	<volume id="load"
+	primitive="stl"
+	url="Load.stl"
+	units="mm"
+	color="0 1 0"
+	alpha="0.5"
+	/>
+
+	<loadcase id="case1">
+		<anchor volume="anchor" /> 
+		<force volume="load" magnitude="3000 -4000 0"/>
+	</loadcase>
+
+	<material id="titanium"
+		name="Ti-6AI-4V"
+		elasticity="104.0 GPa"
+		yield="880.0 Mpa"
+		density="4.429 gcc"
+	/>
+
+	<simulation id="bracket_sim" volume="geBracket">
+		<lattice fill="space"
+			unit="0.001 0.001 0.001"
+			bardiam="0.001 0.001 0.001"
+			material="titanium"
+			hull="0"
+			structure="bars"
+		/>
+
+		<damping velocity="0.01"/>
+		
+		
+		<load id="case1" />
+
+	</simulation>
+
+	<optimization simulation="bracket_sim">
+		<rule method="remove_low_stress" threshold="7%" 
+frequency="25000" />
+		<stop metric="weight" threshold="10%" />
+	</optimization>
+
+	<output id="model" simulation="bracket_sim"> </output>
+</dml>
