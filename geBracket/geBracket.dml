@@ -41,36 +41,29 @@
 
 	<loadcase id="case0">
 		<anchor volume="anchor" /> 
-		<force volume="load" magnitude="0 0 0" duration="0.025" />
+		<force volume="load" magnitude="0 0 0" duration="0.015" />
 		</loadcase>
 		
 	<loadcase id="case1">
 		<anchor volume="anchor" /> 
-		<force volume="load" magnitude="0 35585 0" 
-duration="0.015" />
+		<force volume="load" magnitude="0 35585 0" duration="0.015" />
 	</loadcase>
 
 	<loadcase id="case2">
 		<anchor volume="anchor" /> 
-		<force volume="load" magnitude="0 0 37809" 
-duration="0.015" />
+		<force volume="load" magnitude="0 0 37809" duration="0.015" />
 	</loadcase>	
 
 	<loadcase id="case3">
 		<anchor volume="anchor" /> 
-		<force volume="load" magnitude="0 31404 28277" 
-duration="0.015" />
+		<force volume="load" magnitude="0 31404 28277" duration="0.015" />
 	</loadcase>	
 
 	<loadcase id="case4">
 		<anchor volume="anchor" /> 
-		<force volume="torque_A" magnitude="0 0 5000" 
-duration="0.015" />
-		<force volume="torque_B" magnitude="0 0 -5000" 
-duration="0.015" />
+		<force volume="torque_A" magnitude="0 0 5000" duration="0.015" />
+		<force volume="torque_B" magnitude="0 0 -5000" duration="0.015" />
 	</loadcase>	
-	
-
 		
 	<material id="titanium"
 		name="Ti"
@@ -81,7 +74,7 @@ duration="0.015" />
 
 	<simulation id="bracket_sim" volume="geBracket">
 		<lattice fill="space"
-			unit="0.0035 0.0035 0.0035"
+			unit="0.005 0.005 0.005"
 			bardiam="0.0015 0.0015 0.0015"
 			material="titanium"
 			hull="0"
@@ -101,9 +94,8 @@ duration="0.015" />
 	</simulation>
 
 	<optimization simulation="bracket_sim">
-		<rule method="remove_low_stress" threshold="10%" 
-frequency="60000" />
-		<stop metric="weight" threshold="10%" />
+		<rule method="remove_low_stress" threshold="10%" frequency="60000" />
+		<stop metric="iterations" threshold="1000" regenRate="25%" regenThreshold="30%"/>
 	</optimization>
 
 	<output id="model" simulation="bracket_sim"> </output>

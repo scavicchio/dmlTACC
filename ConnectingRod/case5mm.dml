@@ -1,8 +1,8 @@
 <dml version="1.0" units="MKS">
 
 	<volume id =  "geBracket"
-	primitive="stl"
-	url="Original.stl"
+	primitive="3mf"
+	url="Original.3mf"
 	units="mm"
 	color="0.5 0.5 0.5"
 	/>
@@ -36,7 +36,7 @@
 	/>
 
 	<simulation id="bracket_sim" volume="geBracket">
-		<lattice fill="space"
+		<lattice fill="existing"
 			unit="0.005 0.005 0.005"
 			bardiam="0.0015 0.0015 0.0015"
 			material="titanium"
