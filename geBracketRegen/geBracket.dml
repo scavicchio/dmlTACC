@@ -61,11 +61,9 @@
 
 	<loadcase id="case4">
 		<anchor volume="anchor" /> 
-		<force volume="torque_A" magnitude="0 0 5000" duration="0.025" />
-		<force volume="torque_B" magnitude="0 0 -5000" duration="0.025" />
+		<force volume="torque_A" magnitude="0 0 6778" duration="0.025" />
+		<force volume="torque_B" magnitude="0 0 -6779" duration="0.025" />
 	</loadcase>	
-	
-
 		
 	<material id="titanium"
 		name="Ti"
@@ -76,8 +74,8 @@
 
 	<simulation id="bracket_sim" volume="geBracket">
 		<lattice fill="space"
-			unit=".005 0.005 0.005"
-			bardiam="0.0015 0.001 0.001"
+			unit="0.005 0.005 0.005"
+			bardiam="0.0015 0.0015 0.0015"
 			material="titanium"
 			hull="0"
 			structure="bars"
@@ -96,9 +94,8 @@
 	</simulation>
 
 	<optimization simulation="bracket_sim">
-		<rule method="remove_low_stress" threshold="7%" 
-frequency="100000" />
-		<stop metric="iterations" threshold="1000" />
+		<rule method="remove_low_stress" threshold="10%" frequency="100000" />
+		<stop metric="iterations" threshold="1000"/>
 	</optimization>
 
 	<output id="model" simulation="bracket_sim"> </output>
